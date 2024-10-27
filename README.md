@@ -22,11 +22,15 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div><br/><br/>
 
-Tenho 20 anos e estou cursando Bacharelado em Sistemas de Informação (BSI) pela Faculdade de Informática de Presidente Prudente (FIPP).<br/><br/> Estou atualmente no 4º termo e pretendo aprender muito mais.
+Tenho 21 anos e estou cursando Bacharelado em Sistemas de Informação (BSI) pela Faculdade de Informática de Presidente Prudente (FIPP).<br/><br/> Estou atualmente no 6º termo e pretendo aprender muito mais.
 Qualquer ajuda é bem vinda, então pode me chamar no insta!😉<br/>
 
-## Últimos aprendizados (1° Sem, 2023):
-- [Estrutura de Dados 1]
-- [Gestão da Informação]
-- [Interface homem-máquina]
-- [Probabilidade e Estatística]
+## Últimos aprendizados (1° Sem, 2024):
+- [BANCO DE DADOS II]
+- [FERRAMENTAS COMPUTACIONAIS III]
+- [ENGENHARIA DE SOFTWARE II]
+- [SISTEMAS OPERACIONAIS I]
+- [SIMULAÇÃO GERENCIAL]
+- [ENGENHARIA DE SOFTWARE II]
+- [ESTRUTURAS DE DADOS II]
+- [OPERAÇÕES E LOGÍSTICA]
