@@ -22,7 +22,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div><br/><br/>
 
-Tenho 21 anos e estou cursando Bacharelado em Sistemas de Informação (BSI) pela Faculdade de Informática de Presidente Prudente (FIPP).<br/><br/> Estou atualmente no 7º termo e pretendo aprender muito mais.
+Tenho 22 anos e estou cursando Bacharelado em Sistemas de Informação (BSI) pela Faculdade de Informática de Presidente Prudente (FIPP).<br/><br/> Estou atualmente no 7º termo e pretendo aprender muito mais.
 Qualquer ajuda é bem vinda, então pode me chamar no insta!😉<br/>
 
 ## Últimos aprendizados (X° Sem, X):
