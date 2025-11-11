@@ -3,7 +3,7 @@
 
 ## Curriculum Vitae
 <a href="https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf" target="_blank">[Currículo](https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf)</a>
-
+[Currículo](https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf)
 <br><br>
 
 ![WellingtonDOF GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonDOF&show_icons=true)<br/><br/>
