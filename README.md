@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellingtonfonseca_18/)<br/><br/>
 
 ## Curriculum Vitae
-<a href="https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf" target="_blank">Currículo</a>
+<a href="https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf" target="_blank">[Currículo](https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf)</a>
 
 <br><br>
 
