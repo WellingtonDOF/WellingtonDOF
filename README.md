@@ -1,9 +1,9 @@
 ### E aí? Me chamo Wellington Fonseca 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellingtonfonseca_18/)<br/><br/>
+<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellingtonfonseca_18/)<br/><br/>-->
 
-## Curriculum Vitae
+<!--## Curriculum Vitae
 <a href="https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf">https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf</a>
-<br><br>
+<br><br>-->
 
 ![WellingtonDOF GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonDOF&show_icons=true)<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonDOF&show_icons=true)](https://github.com/WellingtonDOF/github-readme-stats)
@@ -26,5 +26,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div><br/><br/>
 
-Tenho 22 anos e estou cursando Bacharelado em Sistemas de Informação (BSI) pela Faculdade de Informática de Presidente Prudente (FIPP).<br/><br/> Estou atualmente no 7º termo e pretendo aprender muito mais.
-Qualquer ajuda é bem vinda, então pode me chamar no insta!😉<br/>
+Tenho 22 anos e estou cursando Bacharelado em Sistemas de Informação (BSI) pela Faculdade de Informática de Presidente Prudente (FIPP).<br/> Estou atualmente no 8º termo e pretendo aprender muito mais.
+Qualquer ajuda é bem vinda, então pode me chamar!😉<br/>
