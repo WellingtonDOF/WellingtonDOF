@@ -1,18 +1,13 @@
 # Wellington de Oliveira Fonseca
 
-> "Viver é desenhar sem borracha"
-
 Desenvolvedor Full Stack | Estudante de Sistemas de Informação
 
-📍 Presidente Prudente, SP | 📧 wellington05092003@gmail.com | 📱 (18) 99669-1877
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-oliveira-fonseca)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/WellingtonDOF)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf)
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 Estudante de **Bacharelado em Sistemas de Informação** pela UNOESTE, atualmente no **8º termo** com previsão de conclusão em junho de 2026. Atuo como **Desenvolvedor Full Stack** com experiência em desenvolvimento web, desde a modelagem de banco de dados até a implementação de interfaces e APIs.
 
@@ -20,15 +15,12 @@ Tenho conhecimento sólido em JavaScript, TypeScript, PHP, C#, Java e boas prát
 
 ---
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 ### Estagiário de Desenvolvimento Full Stack | **iBati - Tecnologia e Gestão de Ocorrências**
 *Junho/2024 - Presente*
 
-- Desenvolvimento e manutenção de plataforma web para gestão de sinistros veiculares
 - Implementação de **sistema de filas com cron job** para processamento assíncrono de envio de e-mails em lote
-- Criação de relatórios para análise de dados do setor financeiro
-- Desenvolvimento de funcionalidades como **troca automática de nome em todo o sistema** (nome social)
 - Correção de bugs e melhorias de interface/experiência do usuário
 - Identificação proativa de problemas em diferentes módulos do sistema
 - **Stack:** PHP, SolidJS, jQuery, MySQL, Git/GitHub
@@ -60,17 +52,7 @@ Desenvolvimento completo de sistema para organização não governamental.
 - **Stack:** Java Spring Boot (back-end), JavaScript, HTML, CSS (front-end), PostgreSQL
 - Implementação de autenticação, lógica de interface e parametrização
 - Colaboração no planejamento desde as interfaces até integração com banco de dados
-
-### **Gateway de Pagamento**
-
-Sistema de processamento de transações financeiras.
-
-- Desenvolvimento de endpoints para identificação de bandeiras (Visa, Mastercard, Elo)
-- Verificação de validade de cartões
-- Fluxos de transação: iniciar, verificar status, confirmar ou cancelar
-- Cálculo automático de parcelas
-- **Stack:** C# com documentação Swagger
-
+- 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -102,15 +84,7 @@ Git/GitHub | Monday.com | Swagger | Postman
 
 ---
 
-## 📚 Formação
-
-**Bacharelado em Sistemas de Informação**  
-Universidade do Oeste Paulista (UNOESTE)  
-*2023 - 2026* | 8º Termo
-
----
-
-## 🌱 Atualmente Aprendendo
+## Atualmente Aprendendo
 
 - Aprofundamento em **PHP** e **SolidJS** (uso diário no trabalho)
 - Boas práticas de arquitetura de software
@@ -118,7 +92,7 @@ Universidade do Oeste Paulista (UNOESTE)
 
 ---
 
-## 📫 Como me encontrar
+## Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/wellington-oliveira-fonseca)
 - 💻 [GitHub](https://github.com/WellingtonDOF)
@@ -128,5 +102,5 @@ Universidade do Oeste Paulista (UNOESTE)
 ---
 
 <div align="center">
-  <i>Sempre em busca de novos desafios e aprendizados! 🚀</i>
+  <i>Sempre em busca de novos desafios e aprendizados!</i>
 </div>
