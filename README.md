@@ -27,7 +27,7 @@ Tenho conhecimento sólido em JavaScript, TypeScript, PHP, C#, Java e boas prát
 
 ---
 
-## 🎓 Projetos Acadêmicos e Pessoais
+## Projetos Acadêmicos e Pessoais
 
 ### **Sistema para Auto Escola São Cristóvão (SC+)** | *Em Andamento*
 *Projeto de Estágio Supervisionado*
@@ -55,7 +55,7 @@ Desenvolvimento completo de sistema para organização não governamental.
 - 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 **Linguagens:**
 ```
@@ -94,10 +94,10 @@ Git/GitHub | Monday.com | Swagger | Postman
 
 ## Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/wellington-oliveira-fonseca)
-- 💻 [GitHub](https://github.com/WellingtonDOF)
-- 📄 [Currículo Online](https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf)
-- 📧 wellington05092003@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/wellington-oliveira-fonseca)
+- [GitHub](https://github.com/WellingtonDOF)
+- [Curriculum Vitae](https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf)
+- wellington05092003@gmail.com
 
 ---
 
