@@ -27,34 +27,6 @@ Tenho conhecimento sólido em JavaScript, TypeScript, PHP, C#, Java e boas prát
 
 ---
 
-## Projetos Acadêmicos e Pessoais
-
-### **Sistema para Auto Escola São Cristóvão (SC+)** | *Em Andamento*
-*Projeto de Estágio Supervisionado*
-
-Sistema web completo para gestão de autoescola real, incluindo documentação técnica e implementação.
-
-- **Front-end:** Angular com interfaces dinâmicas para cadastro e agendamento
-- **Back-end:** C# com Entity Framework para regras de negócio e APIs
-- **Banco de Dados:** MySQL com modelagem ER desenvolvida do zero
-- **Funcionalidades:**
-  - Cadastro de alunos, instrutores, veículos e aulas
-  - Agendamento de horários e controle de matrículas
-  - Controle de pagamentos e histórico de aulas
-  - **Sistema de notificação por e-mail** enviando lembretes 24h antes das aulas agendadas
-- Criação de ERS (Especificação de Requisitos de Software) e levantamento de necessidades
-
-### **Sistema para ONG**
-
-Desenvolvimento completo de sistema para organização não governamental.
-
-- Modelagem de dados e criação de diagramas de classes
-- **Stack:** Java Spring Boot (back-end), JavaScript, HTML, CSS (front-end), PostgreSQL
-- Implementação de autenticação, lógica de interface e parametrização
-- Colaboração no planejamento desde as interfaces até integração com banco de dados
-- 
----
-
 ## Tecnologias e Ferramentas
 
 **Linguagens:**
