@@ -68,7 +68,7 @@ Git/GitHub | Monday.com | Swagger | Postman
 
 - [LinkedIn](https://www.linkedin.com/in/wellington-oliveira-fonseca)
 - [GitHub](https://github.com/WellingtonDOF)
-- [Curriculum Vitae](https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf)
+<!-- [Curriculum Vitae](https://wellingtondof.github.io/Curriculum-Vitae/cv.pdf) -->
 - wellington05092003@gmail.com
 
 ---
