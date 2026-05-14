@@ -18,7 +18,7 @@ Tenho conhecimento sólido em JavaScript, TypeScript, PHP, C#, Java e boas prát
 ## Experiência Profissional
 
 ### Estagiário de Desenvolvimento Full Stack | **iBati - Tecnologia e Gestão de Ocorrências**
-*Junho/2024 - Presente*
+*Junho/2025 - Presente*
 
 - Implementação de **sistema de filas com cron job** para processamento assíncrono de envio de e-mails em lote
 - Correção de bugs e melhorias de interface/experiência do usuário
