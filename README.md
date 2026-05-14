@@ -9,7 +9,7 @@ Desenvolvedor Full Stack | Estudante de Sistemas de Informação
 
 ## Sobre Mim
 
-Estudante de **Bacharelado em Sistemas de Informação** pela UNOESTE, atualmente no **8º termo** com previsão de conclusão em junho de 2026. Atuo como **Desenvolvedor Full Stack** com experiência em desenvolvimento web, desde a modelagem de banco de dados até a implementação de interfaces e APIs.
+Estudante de **Bacharelado em Sistemas de Informação** pela UNOESTE, atualmente no **8º termo** com previsão de conclusão para 2026. Atuo como **Desenvolvedor Full Stack** com experiência em desenvolvimento web, desde a modelagem de banco de dados até a implementação de interfaces e APIs.
 
 Tenho conhecimento sólido em JavaScript, TypeScript, PHP, C#, Java e boas práticas de desenvolvimento, sempre buscando soluções eficientes e escaláveis para problemas reais.
 
